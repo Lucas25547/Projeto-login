@@ -1,0 +1,11 @@
+C:\Users\JOALESON SOUZA\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\ProjetoLogin.exe.config
+C:\Users\JOALESON SOUZA\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\ProjetoLogin.exe
+C:\Users\JOALESON SOUZA\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\ProjetoLogin.pdb
+C:\Users\JOALESON SOUZA\Desktop\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.csprojResolveAssemblyReference.cache
+C:\Users\JOALESON SOUZA\Desktop\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.Properties.Resources.resources
+C:\Users\JOALESON SOUZA\Desktop\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.csproj.GenerateResource.Cache
+C:\Users\JOALESON SOUZA\Desktop\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.exe
+C:\Users\JOALESON SOUZA\Desktop\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.pdb
+C:\Users\JOALESON SOUZA\Desktop\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.Apresentacao.BemVindo.resources
+C:\Users\JOALESON SOUZA\Desktop\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.Apresentacao.Cadastrese.resources
+C:\Users\JOALESON SOUZA\Desktop\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.Form1.resources
